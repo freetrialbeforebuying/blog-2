@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Themes</title>
+    <link>https://freetrialbeforebuying.github.io/blog-2/post/</link>
+    <description>Recent content in Posts on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 17 Jul 2017 14:52:26 -0700</lastBuildDate>
+    
+	<atom:link href="https://freetrialbeforebuying.github.io/blog-2/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://freetrialbeforebuying.github.io/blog-2/post/third-post/</link>
+      <pubDate>Mon, 17 Jul 2017 14:52:26 -0700</pubDate>
+      
+      <guid>https://freetrialbeforebuying.github.io/blog-2/post/third-post/</guid>
+      <description>This is the third post</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://freetrialbeforebuying.github.io/blog-2/post/second-post/</link>
+      <pubDate>Mon, 17 Jul 2017 14:47:24 -0700</pubDate>
+      
+      <guid>https://freetrialbeforebuying.github.io/blog-2/post/second-post/</guid>
+      <description>This is the second post in a series of post. It&amp;rsquo;s very easy to use themes in hugo. Excellent static site generator. Works great with git platforms. Also can deploy for a fraction of cost on netlify. Even free tier is available. Will try that next.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://freetrialbeforebuying.github.io/blog-2/post/first-post/</link>
+      <pubDate>Mon, 17 Jul 2017 14:38:37 -0700</pubDate>
+      
+      <guid>https://freetrialbeforebuying.github.io/blog-2/post/first-post/</guid>
+      <description>This is a blgo site created using Hugo. Hugo is a static site generator written in golang. Hugo is way faster than jekyll. Try it out now ! Let&amp;rsquo;s see how this first post shows up on the site.</description>
+    </item>
+    
+  </channel>
+</rss>

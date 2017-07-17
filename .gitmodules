@@ -1,0 +1,9 @@
+[submodule "themes/code-editor"]
+	path = themes/code-editor
+	url = https://github.com/aubm/hugo-code-editor-theme.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
